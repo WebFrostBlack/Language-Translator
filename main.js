@@ -22,7 +22,6 @@ selectTag.forEach( (tag, id) => {
 });
 
 exchangeIcon.addEventListener("click", ()=>{
-    // Exchanging text area and select tag values.
     let tempText = fromText.value;
     let tempLang = selectTag[0].value;
     fromText.value = toText.value;
