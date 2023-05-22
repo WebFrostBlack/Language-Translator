@@ -9,4 +9,4 @@
 __This is the result :__
 
 
-![Nom de l'image](img-git.png){:height="300px" width="500px"}
+![Nom de l'image](img-git.png)
